@@ -9,6 +9,8 @@
 
 ## Tutorials
 
+### Disclaimer, google log in does not work on mobile, log in to your accaunt and set a password up to log in
+
 ### Any browser with extension support
 
 [![Watch Video 1](https://img.youtube.com/vi/AChCVeZs8LI/maxresdefault.jpg)](https://youtu.be/AChCVeZs8LI)
