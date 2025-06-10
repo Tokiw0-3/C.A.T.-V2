@@ -9,7 +9,7 @@
 
 ## Tutorials
 
-### Disclaimer, google log in does not work on mobile, log in to your accaunt and set a password up to log in
+### Disclaimer, google log in does not work on mobile, log in to your account and set a password up to log in
 
 ### Any browser with extension support
 
